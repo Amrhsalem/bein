@@ -1,47 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://alltubedownload.net/download?url=https://youtu.be/WhahH4DKIWc
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://alltubedownload.net/download?url=https://youtu.be/sFSa1EbLO9w
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://alltubedownload.net/download?url=https://youtu.be/L5xwLl5gKrs
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://alltubedownload.net/download?url=https://youtu.be/pA4qKCM-YRo
-
-#EXTINF:-1, tvg-id"" tvg-name="xxxxx" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/714329_ico.png" group-title="",[color yellow]Aliwix Tv Lite ➠ www.aliwix-lite.tk[/color]
-https://www.appcreator24.com/srv/imgs/gen/714329_ico.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/832289_ico.png",[color red]•●★-----|AR BEIN SPORT HD|-----★●•[/color]
-https://www.appcreator24.com/srv/imgs/gen/832289_ico.png?ts=1586514345
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD", Bein BEIN SPORT NEWS HD
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 1 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 4 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 5 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 6 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 7 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-http://blackfiretv.net:25461/BLACKSPORT/nxhgmhtxhfsnfgsngara/110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 8 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 9 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://c2.lestechnophiles.com/lh3.googleusercontent.com/3Wuk1ih4G54SwBFhb05wKZC48h1fuMoQNaYgAJZxch1VuX3Cm6mevsU3Ksre2F2qvGSu=s180" group-title="BEIN HD",|AR| BeIN SPORTS 10 HD
-#EXTVLCOPT:http-user-agent=qwagweh4365u4rjfgngngfnrntnrtn
-https://heny007.github.io/hls/aliwix/bein1-hd.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=555703,AVERAGE-BANDWIDTH=555703,CODECS="avc1.42c01e,mp4a.40.2",RESOLUTION=384x216,FRAME-RATE=25.000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_400000=2-mp4a_130400_qad=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1191704,AVERAGE-BANDWIDTH=1191704,CODECS="avc1.42c01f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1721703,AVERAGE-BANDWIDTH=1721703,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
